@@ -40,7 +40,7 @@ let height = window.innerHeight;
 let textSize = 0;
 let textCenter = 0;
 const letters = [];
-const prompt = ['H','e','l','l','o','!',',',' ','I',"'",'m',' ','l','ê',' ','q','u','ố','c',' ','p','h','i'];
+const prompt = ['H','e','l','l','o','!',',',' ','I',"'",'m',' ','l','ê',' ','q','u','ố','c',' ','p','h','i','x','i','n','h',' ','đ','ẹ','p'];
 let runPrompt = true;
 
 const resizePage = () => {
